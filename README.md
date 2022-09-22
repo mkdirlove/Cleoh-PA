@@ -9,7 +9,7 @@
 ### Installation ang usage
 
 ```
-git clone https://github.com/mkdirlove/Cleoh-PA
+git clone https://github.com/mkdirlove/Cleoh-PA.git
 ```
 ```
 cd Cleoh-PA
